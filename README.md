@@ -39,6 +39,7 @@ const maruf = {
   available   : true,
 };
 
+```
 🌐 Connect With Me
 
 <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn"> 
@@ -146,6 +147,5 @@ Bash🔨  Full Stack MERN Applications with role-based access control
 
 ⭐ If you find my work valuable, consider giving a star! ⭐
 
-```
 
 
