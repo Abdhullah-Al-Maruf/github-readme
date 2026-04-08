@@ -105,11 +105,7 @@ const maruf = {
 
 </div>
 
-<div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdhullah-Al-Maruf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=94a3b8&langs_count=8" />
-
-</div>
 
 ---
 
