@@ -37,9 +37,9 @@ const maruf = {
   role        : "MERN Stack Developer",
   location    : "Bangladesh 🇧🇩",
   focus       : ["Scalable Web Apps", "Clean Architecture", "Great UX"],
-  currently   : ["Next.js", "System Design", "AWS", "Docker"],
+  currently   : ["Next.js", "System Design"],
   collaborate : "Open Source Projects 🤝",
-  funFact     : "I turn ☕ coffee into scalable systems",
+  funFact     : "I turn problem and then create that problem solution",
   ask_me_about: ["React", "Node.js", "MongoDB", "Express", "REST APIs"],
   available   : true,
 };
