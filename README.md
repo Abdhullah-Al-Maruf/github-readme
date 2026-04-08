@@ -32,20 +32,6 @@
 ## 🧑‍💻 About Me
 
 
-const maruf = {
-  name        : "Abdullah Al Maruf",
-  role        : "Aspiring MERN Stack Developer",
-  location    : "Bangladesh 🇧🇩",
-  focus       : ["Full Stack Web Development",],
-  currently   : ["React", "React Router", "Next.js"],
-  learning    : ["REST APIs", "Authentication", "Backend Development"],
-  collaborate : "Open Source & Beginner-Friendly Projects 🤝",
-  funFact     : "I enjoy solving problems and turning ideas into real applications 🚀",
-  ask_me_about: ["JavaScript", "React Basics", "Node.js Fundamentals"],
-  available   : true,
-};
-
-
 ```ts
 const maruf = {
   name        : "Abdhullah Al Maruf",
