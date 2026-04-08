@@ -139,23 +139,30 @@ const maruf = {
 | 🔐 Auth Systems | JWT, OAuth & Firebase Authentication flows |
 | 📱 Responsive UI | Mobile-first designs with Tailwind CSS & DaisyUI |
 | 🔗 REST APIs | Designed and documented RESTful backend services |
-| 🐳 DevOps Ready | Docker, Git workflows & cloud infrastructure |
+
 
 </div>
 
 ---
-
-## 🚀 Currently Building
-
 ```ts
-🔨  Full Stack MERN Applications with role-based access control
-📐  RESTful & scalable APIs with Node.js + Express
-🎨  Pixel-perfect UIs with React, Tailwind CSS & DaisyUI
-☁️  Containerized apps with Docker + exploring AWS cloud
-```
+## 🚀 Currently Learning & Building
+
+🔨 Building Full Stack MERN Applications (learning role-based access control)  
+📐 Learning to design RESTful APIs using Node.js & Express  
+🎨 Creating responsive UIs with React, Tailwind CSS & DaisyUI  
+☁️ Exploring Docker and cloud basics (AWS)  
 
 ---
 
+## 📚 Currently Focused On
+
+- ⚛️ React & React Router  
+- ⚡ Next.js fundamentals  
+- 🔐 Authentication & Authorization (JWT, RBAC basics)  
+- 🧠 Improving problem-solving & JavaScript skills  
+
+---
+```
 <div align="center">
 
 ### 💬 Dev Philosophy
