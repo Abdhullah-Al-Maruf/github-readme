@@ -9,11 +9,6 @@
     </linearGradient>
 
 
-
-  <div align="center">
-<img src="https://raw.githubusercontent.com/Abdhullah-Al-Maruf/Abdhullah-Al-Maruf/main/banner.svg" width="100%" alt="Abdhullah Al Maruf Banner"/>
-</div>
-
 <br/>
 
 <div align="center">
