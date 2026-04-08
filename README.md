@@ -113,13 +113,6 @@ const maruf = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abdhullah-Al-Maruf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
 
 ---
 
@@ -151,7 +144,7 @@ const maruf = {
 
 ## 🚀 Currently Building
 
-```bash
+```ts
 🔨  Full Stack MERN Applications with role-based access control
 📐  RESTful & scalable APIs with Node.js + Express
 🎨  Pixel-perfect UIs with React, Tailwind CSS & DaisyUI
